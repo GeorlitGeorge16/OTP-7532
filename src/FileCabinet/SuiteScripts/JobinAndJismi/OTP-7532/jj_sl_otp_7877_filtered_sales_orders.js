@@ -1,12 +1,8 @@
 /**
  * @NApiVersion 2.1
  * @NScriptType Suitelet
- * @author      JobinAndJismi IT Services LLP
- * @Date        September 12, 2024
- * @Title       Custom page for displaying sales orders based on status
- * @JiraCode    OTP-7877
+ * @author JobinAndJismi IT Services LLP
  */
-
 define(['N/ui/serverWidget', 'N/search', 'N/log', 'N/record'], 
     (serverWidget, search, log, record) => {
 
