@@ -164,7 +164,7 @@ define(['N/record', 'N/search', 'N/log'],
         }
 
         return {
-            pageInit: pageInit,
+            
             fieldChanged: fieldChanged
         };
     });
